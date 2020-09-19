@@ -2,6 +2,15 @@
 
 ![Alt text](img/portfolio.png?raw=true "Title")
 
+## Contacto:
+
+📧 Correo : Ydauracontreras@gmail.com
+💼 Linkedin: <www.linkedin.com/in/ydauracontreras>
+
+## Skills:
+
+![B](img/skill.png?raw=true "Title")
+
 <!--
 **Ydauracontreras/Ydauracontreras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
