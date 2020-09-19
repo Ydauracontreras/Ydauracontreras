@@ -1,4 +1,3 @@
-###BIENVENIDO 😄😄
 
 ![Alt text](img/portfolio.png?raw=true "Title")
 
