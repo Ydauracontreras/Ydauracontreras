@@ -6,7 +6,7 @@
 
 #### 📧 Correo : Ydauracontreras@gmail.com
 
-#### 💼 Linkedin: <www.linkedin.com/in/ydauracontreras>
+#### 💼 Linkedin: www.linkedin.com/in/ydauracontreras
 
 ## Skills:
 
